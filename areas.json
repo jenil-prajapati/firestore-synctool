@@ -1,0 +1,24 @@
+[
+    {
+      "id": "red",
+      "name": "Red Name",
+      "easy": ["This is #1 easy red task"],
+      "medium": ["This is #1 medium red task"],
+      "hard": ["This is #1 hard red task"]
+    },
+    {
+      "id": "green",
+      "name": "Green Name",
+      "easy": ["This is #1 easy green task"],
+      "medium": ["This is #1 medium green task"],
+      "hard": ["This is #1 hard green task"]
+    },
+    {
+      "id": "blue",
+      "name": "Blue Name",
+      "easy": ["This is #1 easy blue task"],
+      "medium": ["This is #1 medium blue task"],
+      "hard": ["This is #1 hard blue task"]
+    }
+  ]
+  
