@@ -13,13 +13,13 @@ This tool allows you to sync data from a JSON file (`areas.json`) to a specified
 
 ## Setup
 
-1. **Clone this Repository**:
+ **Clone this Repository**:
    ```bash
    git clone <repository-url>
    cd firestore-sync-tool
+```
 
-# Steps:
-
+## Setup
 1. npm install
 2. credentials.json firestore setup
 3. node syncAreas.js
