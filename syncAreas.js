@@ -15,6 +15,7 @@ const areasCollection = db.collection('area'); // Match the collection name exac
 async function syncAreas() {
   const areasData = JSON.parse(fs.readFileSync('areas.json', 'utf8'));
 
+  
   for (const area of areasData) {
     const docRef = areasCollection.doc(area.id);
     const doc = await docRef.get();
